@@ -4,7 +4,7 @@ _API para hacer test de webs con PHP y javascript._
 
 ## Comenzando 🚀
 
-_Crea una cuenta Google CLoud, crea un proyecto y obten un Key de autorización para usar la api de Google Speed Insights
+_Crea una cuenta Google Cloud, crea un proyecto y obten un Key de autorización para usar la api de Google Speed Insights
 Descarga o clona el repositorio. 
 Utiliza el código de ejemplo para guiarte._
 
@@ -52,14 +52,17 @@ _La respuesta será así_
 }
 ```
 
-_Interactive es el tiempo que toma la web en ser interactiva_
-_Paint es el tiempo que toma la web en mostrarse_
-_Score es un cálculo de los score de ambas métricas_
+*Interactive es el tiempo que toma la web en ser interactiva*
+
+*Paint es el tiempo que toma la web en mostrarse*
+
+*Score es un cálculo de los score de ambas métricas*
 
 _Puede agregar más datos ya que el json de Google Speed Insights es larguísimo, pero con esto ya puedes ir probando_
 
 ```
 https://www.googleapis.com/pagespeedonline/v5/runPagespeed?key=[TU API KEY]&url=https://jetdigital.cl
+
 ```
 
 ## Construido con 🛠️
