@@ -77,7 +77,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (GNU General Public License v3.0) - mira el archivo [LICENSE](LICENSE) para detalles
 
 ## Expresiones de Gratitud 🎁
 
